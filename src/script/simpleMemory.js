@@ -93,8 +93,8 @@ if (initCheck()) {
     window.cnblogsConfigDefault = {
         GhUserName: 'FaceJie',
         GhRepositories: 'BlogThems',
-        GhVersions: 'dcd20b6',
-        CnVersions: "1fa45c2d73a02b952a8fa9b3bdc3ad34309ec3bc",
+        GhVersions: 'b81fa42',
+        CnVersions: "628e1fbcc739833f923f0de7222e1b25305c6977",
         blogUser: "一只翔子",
         blogAvatar: "https://pic.cnblogs.com/avatar/1537127/20201009104022.png",
         blogStartDate: "2020-10-02",
