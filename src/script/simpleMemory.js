@@ -174,12 +174,12 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/BlogThems@main/img/webp/home_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/Facejie/BlogThems@main/img/webp/home_top_bg.webp"
         ],
         homeBannerText: "",
         homeBannerTextType: "jinrishici",
         essayTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/BlogThems@main/img/webp/nothome_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/Facejie/BlogThems@main/img/webp/nothome_top_bg.webp"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
