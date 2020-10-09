@@ -174,12 +174,12 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/Facejie/BlogThems@main/img/webp/home_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/FaceJie/BlogThems@main/img/webp/home_top_bg.webp"
         ],
         homeBannerText: "",
         homeBannerTextType: "jinrishici",
         essayTopImg: [
-            "https://cdn.jsdelivr.net/gh/Facejie/BlogThems@main/img/webp/nothome_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/FaceJie/BlogThems@main/img/webp/nothome_top_bg.webp"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
@@ -297,7 +297,7 @@ function getVersionConfig() {
     window.cnblogsConfig.CnVersions = window.cnblogsConfig.GhVersions;
 
     if (window.cnblogsConfig.isVersionMapping) {
-        var url = 'https://raw.githubusercontent.com/' + window.cnblogsConfig.GhUserName + '/' + window.cnblogsConfig.GhRepositories + '/master/version.conf';
+        var url = 'https://raw.githubusercontent.com/' + window.cnblogsConfig.GhUserName + '/' + window.cnblogsConfig.GhRepositories + '/main/version.conf';
 
         $.ajax({
             type: "get",
