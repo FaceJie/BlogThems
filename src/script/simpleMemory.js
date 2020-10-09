@@ -1,7 +1,7 @@
 /*!
- * UPDATES AND DOCS AT: https://github.com/BNDong
- * https://www.cnblogs.com/bndong/
- * @author: BNDong, dbnuo@foxmail.com
+ * UPDATES AND DOCS AT: https://github.com/FaceJie
+ * https://www.cnblogs.com/FaceJie/
+ * @author: FaceJie, dbnuo@foxmail.com
  **/
 if (initCheck()) {
 
@@ -93,8 +93,8 @@ if (initCheck()) {
     window.cnblogsConfigDefault = {
         GhUserName: 'FaceJie',
         GhRepositories: 'BlogThems',
-        GhVersions: '2d1e70a',
-        CnVersions: "60fca1978b488594032416156d5545d022d111fa",
+        GhVersions: 'dcd20b6',
+        CnVersions: "1fa45c2d73a02b952a8fa9b3bdc3ad34309ec3bc",
         blogUser: "一只翔子",
         blogAvatar: "https://pic.cnblogs.com/avatar/1537127/20201009104022.png",
         blogStartDate: "2020-10-02",
@@ -174,12 +174,12 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/BNDong/BlogThems@main/img/webp/home_top_bg.webp"
         ],
         homeBannerText: "",
         homeBannerTextType: "jinrishici",
         essayTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/BNDong/BlogThems@main/img/webp/nothome_top_bg.webp"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
@@ -314,33 +314,8 @@ function getVersionConfig() {
     } else if(window.cnblogsConfig.GhUserName === 'BNDong') {
         window.themeVersion = [
             [
-                "v1.1.6",
-                "d8adfb50252062f658350bda29d7145f5eff0b80"
-            ]
-            ,
-            [
-                "v1.1.8",
-                "461aab69de17a84f0af9ff0c326bfcb94438b06c"
-            ]
-            ,
-            [
-                "v1.2.2",
-                "08eab99303d7c463a495adabd8feccc784a8507d"
-            ]
-            ,
-            [
-                "v1.2.3",
-                "36901bf16e2aa3656d4e6f78d44486273b0b8972"
-            ]
-            ,
-            [
-                "v1.2.4",
-                "9354db2147c11fc56cfe02a502f1f8229332fc2f"
-            ]
-            ,
-            [
-                "v1.2.5",
-                "4d744f980758500078df349520472e3b360fb841"
+                "v1.0.0",
+                "1fa45c2d73a02b952a8fa9b3bdc3ad34309ec3bc"
             ]
         ];
         setConfVersion();
