@@ -93,8 +93,8 @@ if (initCheck()) {
     window.cnblogsConfigDefault = {
         GhUserName: 'FaceJie',
         GhRepositories: 'BlogThems',
-        GhVersions: 'b81fa42',
-        CnVersions: "628e1fbcc739833f923f0de7222e1b25305c6977",
+        GhVersions: '9ce9815',
+        CnVersions: "a6b3cb179a714cb943b3824b2be18f76be206afe",
         blogUser: "一只翔子",
         blogAvatar: "https://pic.cnblogs.com/avatar/1537127/20201009104022.png",
         blogStartDate: "2020-10-02",
@@ -311,7 +311,7 @@ function getVersionConfig() {
             }
         });
 
-    } else if(window.cnblogsConfig.GhUserName === 'BNDong') {
+    } else if(window.cnblogsConfig.GhUserName === 'FaceJie') {
         window.themeVersion = [
             [
                 "v1.0.0",
