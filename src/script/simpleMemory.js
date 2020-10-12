@@ -174,7 +174,13 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/FaceJie/BlogThems@main/img/webp/home_top_bg.webp"
+            "https://cdn.jsdelivr.net/gh/FaceJie/BlogThems@main/img/webp/home_top_bg.webp",
+            "https://cdn.jsdelivr.net/gh/FaceJie/BlogThems@main/img/webp/bg1.webp",
+            "https://cdn.jsdelivr.net/gh/FaceJie/BlogThems@main/img/webp/bg2.webp",
+            "https://cdn.jsdelivr.net/gh/FaceJie/BlogThems@main/img/webp/bg3.webp",
+            "https://cdn.jsdelivr.net/gh/FaceJie/BlogThems@main/img/webp/bg4.webp",
+            "https://cdn.jsdelivr.net/gh/FaceJie/BlogThems@main/img/webp/bg5.webp",
+            "https://cdn.jsdelivr.net/gh/FaceJie/BlogThems@main/img/webp/bg6.webp"
         ],
         homeBannerText: "",
         homeBannerTextType: "jinrishici",
